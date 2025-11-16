@@ -44,6 +44,9 @@ The following parameters are related to the reduction of the indefinite factor o
 
 The history of bayesian optimization, the filtered time series "flt....csv" is generated.
 
+
+<h1>1dimReservoir....TYoneda.ipynb</h1>
+
 Optimizing the hyperparameters of the echo state network model. You can set desirable ranges of the hyperparameters
 
 - lag: Delay time
