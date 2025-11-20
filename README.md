@@ -4,21 +4,17 @@ As shown in 1dimReservoir_ElNino_TYoneda.ipynb, the 22-step-ahead prediction
 (25 minus lag3) achieves a PCC of 0.54. This is broadly consistent with the results reported in 
 
 
-
-<h3>
   
 > Takuya Jinno, Takahito Mitsui, Kengo Nakai, Yoshitaka Saiki, and Tsuyoshi Yoneda, Long-term prediction of El Niño–Southern Oscillation using reservoir computing with a data-driven real-time filter, Chaos 35 (2025), 053149.
 
-</h3>
 
 This consistency indicates that the reservoir-computing approach combined with a data-driven filter exhibits robust performance.
 
 Similarly, 1dimReservoir_MJO_TYoneda.ipynb shows that the 21-step-ahead prediction 
 (23 minus lag2) achieves a PCC of 0.69. This is also consistent with the results of 
 
-<h3>
-Tamaki Suematsu, Kengo Nakai, Tsuyoshi Yoneda, Daisuke Takasuka, Takuya Jinno, Yoshitaka Saiki, and Hiroaki Miura, Machine learning prediction of the MJO extends beyond one month, submitted, arXiv:2301.01254, 
-</h3>
+
+> Tamaki Suematsu, Kengo Nakai, Tsuyoshi Yoneda, Daisuke Takasuka, Takuya Jinno, Yoshitaka Saiki, and Hiroaki Miura, Machine learning prediction of the MJO extends beyond one month, submitted, arXiv:2301.01254
 
 further illustrating the robustness of the reservoir-computing framework with a data-driven filter.
 
