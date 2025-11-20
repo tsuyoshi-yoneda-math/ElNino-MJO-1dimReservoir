@@ -6,7 +6,9 @@ As shown in 1dimReservoir_ElNino_TYoneda.ipynb, the 22-step-ahead prediction
 
 
 <h3>
-> Takuya Jinno, Takahito Mitsui, Kengo Nakai, Yoshitaka Saiki, and Tsuyoshi Yoneda, Long-term prediction of El Niño–Southern Oscillation using reservoir computing with a data-driven real-time filter, Chaos 35 (2025), 053149. 
+  
+> Takuya Jinno, Takahito Mitsui, Kengo Nakai, Yoshitaka Saiki, and Tsuyoshi Yoneda, Long-term prediction of El Niño–Southern Oscillation using reservoir computing with a data-driven real-time filter, Chaos 35 (2025), 053149.
+
 </h3>
 
 This consistency indicates that the reservoir-computing approach combined with a data-driven filter exhibits robust performance.
