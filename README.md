@@ -1,5 +1,13 @@
 Please acknowledge the use of these scripts in any publications that make use of them.
 
+---
+
+If you want to know the mathematical structure of the data-driven filter, please go to
+
+https://github.com/tsuyoshi-yoneda-math/SummaryNoteSlide-ML-Turbulence/blob/main/summary_ML_impl_driven_math.pdf
+
+---
+
 As shown in 1dimReservoir_ElNino_TYoneda.ipynb, the <b>22-step-ahead prediction 
 (25 minus lag3) achieves a PCC of 0.54.</b> This is broadly consistent with the results reported in 
 
